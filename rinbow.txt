@@ -1,0 +1,6 @@
+rinbow colors
+red
+green
+yellow
+
+this is a practice
