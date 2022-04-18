@@ -6,4 +6,5 @@ purple
 just see inside
 this is a practice
 this is new branch repository 
-adding some thing else
+adding some thing elsea
+cheching if merge works in both branch correctly
