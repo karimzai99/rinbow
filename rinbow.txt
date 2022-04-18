@@ -2,5 +2,6 @@ rinbow colors
 red
 green
 yellow
-
+purple
+just see inside
 this is a practice
